@@ -2,7 +2,7 @@
 ---------------------------------------------------------
   --> Whats `Sus_L0RD`?
   - `Sus_L0RD` is a developing discord bot
-  - Created by The `Sus_G0D` who is learning how to code
+  - Created by The `Sus_G0D`; Founder of Aven Projects
 ---------------------------------------------------------
 ...................-___Enjoy!___ xx-.......................
 ---------------------------------------------------------
