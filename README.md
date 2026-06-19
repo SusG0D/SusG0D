@@ -10,7 +10,7 @@
 
   --> Whats `Waypoint`?
   - `Waypoint` is a pixel-art game in development.
-  - *The game is still in early development and will not be released publicly for now.
+  - *The game is still in early development and will not be released publicly for now.*
 ---------------------------------------------------------
 ...................-___Enjoy!___ xx-.......................
 ---------------------------------------------------------
